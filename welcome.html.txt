@@ -1,4 +1,8 @@
 <html>
 <head> Welcome to Git </head>
-<body bgcolor="red"> Git </body>
+<body bgcolor="red"> Git 
+    Git is distributed version control
+
+</body>
+
 </html>
