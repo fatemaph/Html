@@ -1,4 +1,4 @@
 <html>
 <head> Welcome to Git </head>
-<body> Git </body>
+<body bgcolor="red"> Git </body>
 </html>
